@@ -1,3 +1,5 @@
 *.jpg
 *.zip
 tensorflow_hub/
+transfer_learning/
+10_percent_mode_checkpoints_weights/
