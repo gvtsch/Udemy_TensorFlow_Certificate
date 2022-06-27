@@ -1,6 +1,6 @@
 # Udemy_TensorFlow_Certificate
 
-All files that I created during the **Udemy** course [**TensorFlow Developer Certificate in 2022: Zero to Mastery**](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/25128116#overview) from [Zero To Mastery](https://www.udemy.com/user/zero-to-mastery-2/) are stored in this repository. 
+I created these files during the **Udemy** course [**TensorFlow Developer Certificate in 2022: Zero to Mastery**](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/25128116#overview) from [Zero To Mastery](https://www.udemy.com/user/zero-to-mastery-2/) are stored in this repository. 
 This course is held by [Andrei Neagoie](https://zerotomastery.io/) and [Daniel Bourke](https://www.mrdbourke.com/)
 
 If you want to learn how i am doing in this course and how i like, follow me on _medium.com_.
