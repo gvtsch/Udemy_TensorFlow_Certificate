@@ -1,4 +1,5 @@
 *.jpg
+*.jpeg
 *.zip
 tensorflow_hub/
 transfer_learning/
