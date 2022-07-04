@@ -3,4 +3,5 @@
 *.zip
 tensorflow_hub/
 transfer_learning/
+training_logs/
 10_percent_mode_checkpoints_weights/
