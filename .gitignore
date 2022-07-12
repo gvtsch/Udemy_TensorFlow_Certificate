@@ -3,6 +3,7 @@
 *.zip
 *.pyc
 *.csv
+*.h5
 tensorflow_hub/
 transfer_learning/
 training_logs/
