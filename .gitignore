@@ -4,6 +4,7 @@
 *.pyc
 *.csv
 *.h5
+*.pb
 tensorflow_hub/
 transfer_learning/
 training_logs/
@@ -11,3 +12,4 @@ training_logs/
 101_food_classes_big_dog/
 model_experiments/
 model_logs/
+skimlit_tribrid_model/
